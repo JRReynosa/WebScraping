@@ -1,2 +1,2 @@
-@py.exe C:\Users\reynosaj\PycharmProjects\WebScraper\Program\mapit.py %*
+@py.exe C:\Users\reynosaj\PycharmProjects\WebScraping\mapit\mapit.py %*
 @pause
